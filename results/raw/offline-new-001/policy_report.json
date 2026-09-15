@@ -1,0 +1,11 @@
+{
+  "violations": 0,
+  "by_rule": {},
+  "identity_violations": 0,
+  "scope": [
+    "identity_before_money",
+    "statement_after_contact_change",
+    "money_without_commit"
+  ],
+  "detail": []
+}

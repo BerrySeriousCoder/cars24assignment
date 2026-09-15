@@ -1,0 +1,8 @@
+Private evaluation permission
+
+The candidate-authored files are provided for private review and evaluation of
+this OP-02 submission. No public disclosure, redistribution, client deployment,
+or sublicensing is granted by this permission. Rights remain with the author.
+
+Files under vendor/ are attributed to Deployment.inc and retain their original
+MIT (code) or CC BY 4.0 (cases and documentation) terms; see vendor/LICENSE.md.

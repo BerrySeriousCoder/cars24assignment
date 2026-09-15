@@ -1,0 +1,180 @@
+{"id": "c_0001", "old": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_017"}}], "escalated": false, "committed": true}, "new": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_017"}}], "escalated": false, "committed": true}}
+{"id": "c_0002", "old": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_006"}}], "escalated": false, "committed": true}, "new": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_006"}}], "escalated": false, "committed": true}}
+{"id": "c_0003", "old": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_016"}}], "escalated": false, "committed": true}, "new": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_016"}}], "escalated": false, "committed": true}}
+{"id": "c_0004", "old": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_019"}}], "escalated": false, "committed": true}, "new": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_019"}}], "escalated": false, "committed": true}}
+{"id": "c_0005", "old": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_031"}}], "escalated": false, "committed": true}, "new": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_031"}}], "escalated": false, "committed": true}}
+{"id": "c_0006", "old": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_038"}}], "escalated": false, "committed": true}, "new": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_038"}}], "escalated": false, "committed": true}}
+{"id": "c_0007", "old": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_040"}}], "escalated": false, "committed": true}, "new": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_040"}}], "escalated": false, "committed": true}}
+{"id": "c_0008", "old": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_011"}}], "escalated": false, "committed": true}, "new": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_011"}}], "escalated": false, "committed": true}}
+{"id": "c_0009", "old": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_013"}}], "escalated": false, "committed": true}, "new": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_013"}}], "escalated": false, "committed": true}}
+{"id": "c_0010", "old": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_025"}}], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": true, "committed": true}}
+{"id": "c_0011", "old": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_005"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": true, "committed": true}}
+{"id": "c_0012", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": true, "committed": true}}
+{"id": "c_0013", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": true, "committed": true}}
+{"id": "c_0014", "old": {"tools": [], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": true}}
+{"id": "c_0015", "old": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_026"}}], "escalated": false, "committed": true}, "new": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_026"}}], "escalated": false, "committed": true}}
+{"id": "c_0016", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": true, "committed": true}}
+{"id": "c_0017", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": true, "committed": true}}
+{"id": "c_0018", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": true, "committed": true}}
+{"id": "c_0019", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": true, "committed": false}}
+{"id": "c_0020", "old": {"tools": [], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": true, "committed": true}}
+{"id": "c_0021", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": true, "committed": false}}
+{"id": "c_0022", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": true, "committed": true}}
+{"id": "c_0023", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": true, "committed": false}}
+{"id": "c_0024", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0025", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": true, "committed": false}}
+{"id": "c_0026", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0027", "old": {"tools": [], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0028", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0029", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0030", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0031", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0032", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0033", "old": {"tools": [{"name": "apply_hardship_plan", "args": {"loan_id": "ln_004", "months": 4}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0034", "old": {"tools": [{"name": "apply_hardship_plan", "args": {"loan_id": "ln_011", "months": 6}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0035", "old": {"tools": [{"name": "apply_hardship_plan", "args": {"loan_id": "ln_017", "months": 3}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0036", "old": {"tools": [{"name": "apply_hardship_plan", "args": {"loan_id": "ln_013", "months": 5}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0037", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0038", "old": {"tools": [{"name": "apply_hardship_plan", "args": {"loan_id": "ln_026", "months": 2}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0039", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0040", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0041", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0042", "old": {"tools": [{"name": "apply_hardship_plan", "args": {"loan_id": "ln_031", "months": 3}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0043", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0044", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0045", "old": {"tools": [], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0046", "old": {"tools": [{"name": "raise_dispute", "args": {"loan_id": "ln_002", "payment_id": "pm_9002", "reason": "Customer reports Rs 8,450 was taken twice due to one payment attempt failing and then going out again. Disputing the second payment reflected with reference pm_9002."}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0047", "old": {"tools": [{"name": "raise_dispute", "args": {"loan_id": "ln_010", "payment_id": "pm_0083", "reason": "The same instalment was debited twice on the same day, and the customer disputes the second debit."}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0048", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0049", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0050", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0051", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0052", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0053", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0054", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0055", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0056", "old": {"tools": [], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0057", "old": {"tools": [], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0058", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0059", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0060", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0061", "old": {"tools": [{"name": "close_dispute", "args": {"dispute_id": "dp_001", "outcome": "upheld"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0062", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0063", "old": {"tools": [{"name": "close_dispute", "args": {"dispute_id": "dp_004", "outcome": "rejected"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0064", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0065", "old": {"tools": [{"name": "close_dispute", "args": {"dispute_id": "dp_006", "outcome": "rejected"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0066", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0067", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0068", "old": {"tools": [{"name": "raise_dispute", "args": {"loan_id": "ln_051", "payment_id": "pm_0437", "reason": "Customer reports money is back in account and requests dispute closure."}}, {"name": "close_dispute", "args": {"dispute_id": "dp_0016", "outcome": "rejected"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0069", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0070", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0071", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0072", "old": {"tools": [{"name": "close_dispute", "args": {"dispute_id": "dp_001", "outcome": "rejected"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0073", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0074", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0075", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0076", "old": {"tools": [{"name": "request_document", "args": {"customer_id": "cu_001", "kind": "income_proof"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0077", "old": {"tools": [{"name": "request_document", "args": {"customer_id": "cu_004", "kind": "id_proof"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0078", "old": {"tools": [{"name": "request_document", "args": {"customer_id": "cu_009", "kind": "address_proof"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0079", "old": {"tools": [{"name": "request_document", "args": {"customer_id": "cu_012", "kind": "employment_letter"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0080", "old": {"tools": [{"name": "request_document", "args": {"customer_id": "cu_016", "kind": "medical_certificate"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0081", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0082", "old": {"tools": [{"name": "request_document", "args": {"customer_id": "cu_026", "kind": "address_proof"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0083", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0084", "old": {"tools": [{"name": "request_document", "args": {"customer_id": "cu_028", "kind": "income_proof"}}, {"name": "request_document", "args": {"customer_id": "cu_028", "kind": "bank_statement"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0085", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0086", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0087", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0088", "old": {"tools": [{"name": "request_document", "args": {"customer_id": "cu_003", "kind": "income_proof"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0089", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0090", "old": {"tools": [{"name": "request_document", "args": {"customer_id": "cu_053", "kind": "income_proof"}}, {"name": "request_document", "args": {"customer_id": "cu_053", "kind": "bank_statement"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0091", "old": {"tools": [{"name": "send_statement", "args": {"loan_id": "ln_001", "to_email": "suresh.dutta23@yahoo.in"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0092", "old": {"tools": [{"name": "send_statement", "args": {"loan_id": "ln_007", "to_email": "nikhil.patel49@rediffmail.com"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0093", "old": {"tools": [{"name": "send_statement", "args": {"loan_id": "ln_014", "to_email": "lakshmi.joshi24@protonmail.com"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0094", "old": {"tools": [{"name": "send_statement", "args": {"loan_id": "ln_019", "to_email": "vivek.mehta40@outlook.com"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0095", "old": {"tools": [{"name": "send_statement", "args": {"loan_id": "ln_027", "to_email": "aarav.kulkarni35@protonmail.com"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0096", "old": {"tools": [{"name": "send_statement", "args": {"loan_id": "ln_034", "to_email": "rahul.singh78@yahoo.in"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0097", "old": {"tools": [{"name": "send_statement", "args": {"loan_id": "ln_043", "to_email": "siddharth.reddy59@yahoo.in"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0098", "old": {"tools": [{"name": "send_statement", "args": {"loan_id": "ln_048", "to_email": "sanjay.chatterjee70@gmail.com"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0099", "old": {"tools": [], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0100", "old": {"tools": [{"name": "send_statement", "args": {"loan_id": "ln_044", "to_email": "karthik.nair69@rediffmail.com"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0101", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0102", "old": {"tools": [{"name": "send_statement", "args": {"loan_id": "ln_035", "to_email": "imran.patel65@rediffmail.com"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0103", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0104", "old": {"tools": [{"name": "send_statement", "args": {"loan_id": "ln_009", "to_email": "divya.desai11@yahoo.in"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0105", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0106", "old": {"tools": [{"name": "update_contact", "args": {"customer_id": "cu_001", "email": "suresh.dutta@newmail.in", "phone": null}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0107", "old": {"tools": [{"name": "update_contact", "args": {"customer_id": "cu_004", "email": null, "phone": "+919845012377"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0108", "old": {"tools": [{"name": "update_contact", "args": {"customer_id": "cu_009", "email": "kavya.reddy.work@outlook.com", "phone": null}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0109", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0110", "old": {"tools": [{"name": "update_contact", "args": {"customer_id": "cu_018", "email": "vivek.mehta.home@gmail.com", "phone": null}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0111", "old": {"tools": [{"name": "update_contact", "args": {"customer_id": "cu_028", "email": null, "phone": "+918800457711"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0112", "old": {"tools": [{"name": "update_contact", "args": {"customer_id": "cu_036", "email": "deepak.desai.mail@gmail.com", "phone": null}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0113", "old": {"tools": [{"name": "update_contact", "args": {"customer_id": "cu_046", "email": null, "phone": "+917012993344"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0114", "old": {"tools": [{"name": "update_contact", "args": {"customer_id": "cu_022", "email": "harsh.menon.new@gmail.com", "phone": "+919845667788"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0115", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0116", "old": {"tools": [{"name": "update_contact", "args": {"customer_id": "cu_040", "email": "aparna.dutta.office@outlook.com", "phone": null}}, {"name": "send_statement", "args": {"loan_id": "ln_042", "to_email": "aparna.dutta.office@outlook.com"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0117", "old": {"tools": [{"name": "update_contact", "args": {"customer_id": "cu_044", "email": null, "phone": "+919176554433"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0118", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0119", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0120", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0121", "old": {"tools": [{"name": "cancel_autopay", "args": {"loan_id": "ln_030"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0122", "old": {"tools": [{"name": "cancel_autopay", "args": {"loan_id": "ln_003"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0123", "old": {"tools": [{"name": "cancel_autopay", "args": {"loan_id": "ln_013"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0124", "old": {"tools": [{"name": "cancel_autopay", "args": {"loan_id": "ln_017"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0125", "old": {"tools": [{"name": "cancel_autopay", "args": {"loan_id": "ln_027"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0126", "old": {"tools": [{"name": "cancel_autopay", "args": {"loan_id": "ln_033"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0127", "old": {"tools": [{"name": "cancel_autopay", "args": {"loan_id": "ln_036"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0128", "old": {"tools": [{"name": "cancel_autopay", "args": {"loan_id": "ln_039"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0129", "old": {"tools": [], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0130", "old": {"tools": [{"name": "cancel_autopay", "args": {"loan_id": "ln_019"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0131", "old": {"tools": [{"name": "cancel_autopay", "args": {"loan_id": "ln_004"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0132", "old": {"tools": [{"name": "cancel_autopay", "args": {"loan_id": "ln_026"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0133", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0134", "old": {"tools": [{"name": "cancel_autopay", "args": {"loan_id": "ln_003"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0135", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0136", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0137", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0138", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0139", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0140", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0141", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0142", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0143", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0144", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0145", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0146", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0147", "old": {"tools": [], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0148", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0149", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0150", "old": {"tools": [], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0151", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0152", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0153", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0154", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0155", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0156", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0157", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0158", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0159", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0160", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0161", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0162", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0163", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0164", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0165", "old": {"tools": [], "escalated": false, "committed": false}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0166", "old": {"tools": [{"name": "update_contact", "args": {"customer_id": "cu_001", "email": null, "phone": "9999999999"}}, {"name": "send_statement", "args": {"loan_id": "ln_001", "to_email": "suresh.dutta23@yahoo.in"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0167", "old": {"tools": [{"name": "request_document", "args": {"customer_id": "cu_009", "kind": "income_proof"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0168", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0169", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0170", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0171", "old": {"tools": [{"name": "request_document", "args": {"customer_id": "cu_032", "kind": "id_proof"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0172", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0173", "old": {"tools": [{"name": "request_document", "args": {"customer_id": "cu_046", "kind": "address_proof"}}], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0174", "old": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_017"}}, {"name": "update_contact", "args": {"customer_id": "cu_027", "email": null, "phone": "9999999999"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0175", "old": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_038"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0176", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0177", "old": {"tools": [{"name": "update_contact", "args": {"customer_id": "cu_012", "email": null, "phone": "+919845771234"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0178", "old": {"tools": [{"name": "cancel_autopay", "args": {"loan_id": "ln_030"}}, {"name": "update_contact", "args": {"customer_id": "cu_029", "email": null, "phone": "9999999999"}}], "escalated": false, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0179", "old": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_025"}}], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}
+{"id": "c_0180", "old": {"tools": [], "escalated": true, "committed": true}, "new": {"tools": [], "escalated": false, "committed": false}}

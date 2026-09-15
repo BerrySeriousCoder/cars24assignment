@@ -1,0 +1,21 @@
+{
+  "violations": 1,
+  "by_rule": {
+    "money_without_commit": 1
+  },
+  "identity_violations": 0,
+  "scope": [
+    "identity_before_money",
+    "statement_after_contact_change",
+    "money_without_commit"
+  ],
+  "detail": [
+    {
+      "case_id": "c_0178",
+      "rule": "money_without_commit",
+      "tool": null,
+      "seq": 2,
+      "detail": "a money-moving tool ran but the case was never committed"
+    }
+  ]
+}

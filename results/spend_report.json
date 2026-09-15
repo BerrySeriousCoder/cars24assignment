@@ -1,0 +1,22 @@
+{
+  "known_api_spend_usd": 2.543484499999999,
+  "unreconciled_calls": [
+    {
+      "id": "75b07896378e4eed84527c1f0ce61f0b",
+      "source": "results/raw/live-old-001/ledger.jsonl"
+    },
+    {
+      "id": "654f5279740548238b86b69eb45d2bbb",
+      "source": "results/raw/live-old-001/ledger.jsonl"
+    },
+    {
+      "id": "770a1ca9903349eb84ad21c119d0dc53",
+      "source": "results/raw/live-old-001/ledger.jsonl"
+    }
+  ],
+  "unreconciled_reserved_upper_bound_usd": 0.024229600000000004,
+  "total_api_spend_upper_bound_usd": 2.567714099999999,
+  "within_50_usd_ceiling": true,
+  "compute": "local CPU; no rented GPU or cloud compute charge",
+  "price_treatment": "pinned uncached list prices, not provider invoice; all failed and probe runs included"
+}

@@ -1,0 +1,35 @@
+{
+  "violations": 3,
+  "by_rule": {
+    "identity_before_money": 3
+  },
+  "identity_violations": 3,
+  "scope": [
+    "identity_before_money",
+    "statement_after_contact_change",
+    "money_without_commit"
+  ],
+  "detail": [
+    {
+      "case_id": "c_0133",
+      "rule": "identity_before_money",
+      "tool": "cancel_autopay",
+      "seq": 2,
+      "detail": "cancel_autopay ran without a successful verification for its customer on this case"
+    },
+    {
+      "case_id": "c_0134",
+      "rule": "identity_before_money",
+      "tool": "cancel_autopay",
+      "seq": 2,
+      "detail": "cancel_autopay ran without a successful verification for its customer on this case"
+    },
+    {
+      "case_id": "c_0135",
+      "rule": "identity_before_money",
+      "tool": "cancel_autopay",
+      "seq": 2,
+      "detail": "cancel_autopay ran without a successful verification for its customer on this case"
+    }
+  ]
+}

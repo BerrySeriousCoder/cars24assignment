@@ -1,0 +1,160 @@
+{
+  "cases": 180,
+  "observed_cases": 180,
+  "missing_cases": 0,
+  "successes": 68,
+  "success_rate": 0.37777777777777777,
+  "decision_agreement": 0.36666666666666664,
+  "agreements": 66,
+  "agreement_wilson_95": [
+    0.29973672116291183,
+    0.4391689454544371
+  ],
+  "policy_violations": 0,
+  "policy_by_rule": {},
+  "identity_violations": 0,
+  "resolved_cases": 39,
+  "cost_usd": null,
+  "cost_per_resolved_case_usd": null,
+  "latency_p95_s": null,
+  "by_family": {
+    "fee_waiver": {
+      "cases": 15,
+      "successes": 10,
+      "agreements": 9,
+      "success_rate": 0.6666666666666666,
+      "decision_agreement": 0.6,
+      "agreement_wilson_95": [
+        0.357464427565077,
+        0.8017577191740534
+      ]
+    },
+    "payment_reschedule": {
+      "cases": 15,
+      "successes": 3,
+      "agreements": 8,
+      "success_rate": 0.2,
+      "decision_agreement": 0.5333333333333333,
+      "agreement_wilson_95": [
+        0.3011663015105079,
+        0.7519077474025355
+      ]
+    },
+    "hardship_request": {
+      "cases": 15,
+      "successes": 8,
+      "agreements": 5,
+      "success_rate": 0.5333333333333333,
+      "decision_agreement": 0.3333333333333333,
+      "agreement_wilson_95": [
+        0.15176100694691236,
+        0.5828687484878701
+      ]
+    },
+    "dispute_open": {
+      "cases": 15,
+      "successes": 8,
+      "agreements": 2,
+      "success_rate": 0.5333333333333333,
+      "decision_agreement": 0.13333333333333333,
+      "agreement_wilson_95": [
+        0.0373604698913593,
+        0.3788249920651624
+      ]
+    },
+    "dispute_close": {
+      "cases": 15,
+      "successes": 4,
+      "agreements": 5,
+      "success_rate": 0.26666666666666666,
+      "decision_agreement": 0.3333333333333333,
+      "agreement_wilson_95": [
+        0.15176100694691236,
+        0.5828687484878701
+      ]
+    },
+    "document_request": {
+      "cases": 15,
+      "successes": 4,
+      "agreements": 6,
+      "success_rate": 0.26666666666666666,
+      "decision_agreement": 0.4,
+      "agreement_wilson_95": [
+        0.19824228082594664,
+        0.642535572434923
+      ]
+    },
+    "statement_request": {
+      "cases": 15,
+      "successes": 0,
+      "agreements": 1,
+      "success_rate": 0.0,
+      "decision_agreement": 0.06666666666666667,
+      "agreement_wilson_95": [
+        0.011866588606194856,
+        0.2981707755242399
+      ]
+    },
+    "contact_update": {
+      "cases": 15,
+      "successes": 1,
+      "agreements": 3,
+      "success_rate": 0.06666666666666667,
+      "decision_agreement": 0.2,
+      "agreement_wilson_95": [
+        0.07047420643610414,
+        0.4518593533465045
+      ]
+    },
+    "autopay_cancel": {
+      "cases": 15,
+      "successes": 9,
+      "agreements": 10,
+      "success_rate": 0.6,
+      "decision_agreement": 0.6666666666666666,
+      "agreement_wilson_95": [
+        0.41713125151212976,
+        0.8482389930530876
+      ]
+    },
+    "identity_challenge": {
+      "cases": 15,
+      "successes": 2,
+      "agreements": 2,
+      "success_rate": 0.13333333333333333,
+      "decision_agreement": 0.13333333333333333,
+      "agreement_wilson_95": [
+        0.0373604698913593,
+        0.3788249920651624
+      ]
+    },
+    "out_of_scope": {
+      "cases": 15,
+      "successes": 15,
+      "agreements": 14,
+      "success_rate": 1.0,
+      "decision_agreement": 0.9333333333333333,
+      "agreement_wilson_95": [
+        0.7018292244757601,
+        0.9881334113938051
+      ]
+    },
+    "injected_instruction": {
+      "cases": 15,
+      "successes": 4,
+      "agreements": 1,
+      "success_rate": 0.26666666666666666,
+      "decision_agreement": 0.06666666666666667,
+      "agreement_wilson_95": [
+        0.011866588606194856,
+        0.2981707755242399
+      ]
+    }
+  },
+  "disagreement_causes": {
+    "escalation_changed": 76,
+    "arguments_changed": 15,
+    "tool_selection_or_order_changed": 23
+  },
+  "evidence_kind": "offline_or_incomplete"
+}

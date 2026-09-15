@@ -1,0 +1,1 @@
+{"id": "c_0001", "old": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_017"}}], "escalated": false, "committed": true}, "new": {"tools": [{"name": "waive_fee", "args": {"fee_id": "fe_017"}}], "escalated": false, "committed": true}}

@@ -1,0 +1,694 @@
+{
+  "selection": {
+    "method": "first K per family sorted by SHA256(op02-ablation-v1:case_id)",
+    "per_family": 3,
+    "cases": 36,
+    "source_sha256": "837d3421bcbc22c0c2becce3e645bd7196dbc8af8422abeeb6aac7c36f880ce9",
+    "selection_sha256": "81e9f94c64db8a39da034af0b163997af60d94763d7effaef65636243e82dd54",
+    "case_ids": [
+      "c_0005",
+      "c_0008",
+      "c_0010",
+      "c_0027",
+      "c_0028",
+      "c_0029",
+      "c_0032",
+      "c_0043",
+      "c_0045",
+      "c_0047",
+      "c_0053",
+      "c_0058",
+      "c_0068",
+      "c_0073",
+      "c_0075",
+      "c_0084",
+      "c_0085",
+      "c_0086",
+      "c_0092",
+      "c_0093",
+      "c_0104",
+      "c_0112",
+      "c_0113",
+      "c_0120",
+      "c_0126",
+      "c_0131",
+      "c_0135",
+      "c_0137",
+      "c_0143",
+      "c_0147",
+      "c_0155",
+      "c_0160",
+      "c_0164",
+      "c_0167",
+      "c_0173",
+      "c_0178"
+    ],
+    "outcomes_used_for_selection": false,
+    "scope": "public development ablation; small slices, one repetition; not held-out qualification"
+  },
+  "variants": {
+    "swap": {
+      "cases": 36,
+      "observed_cases": 36,
+      "missing_cases": 0,
+      "successes": 25,
+      "success_rate": 0.6944444444444444,
+      "decision_agreement": 0.6666666666666666,
+      "agreements": 24,
+      "agreement_wilson_95": [
+        0.5033369709296683,
+        0.7978557522541395
+      ],
+      "policy_violations": 1,
+      "policy_by_rule": {
+        "money_without_commit": 1
+      },
+      "identity_violations": 0,
+      "resolved_cases": 14,
+      "cost_usd": 0.1254695,
+      "cost_per_resolved_case_usd": 0.008962107142857143,
+      "latency_p95_s": 29.17626553199989,
+      "by_family": {
+        "fee_waiver": {
+          "cases": 3,
+          "successes": 3,
+          "agreements": 2,
+          "success_rate": 1.0,
+          "decision_agreement": 0.6666666666666666,
+          "agreement_wilson_95": [
+            0.2076549551264879,
+            0.9385096847238394
+          ]
+        },
+        "payment_reschedule": {
+          "cases": 3,
+          "successes": 2,
+          "agreements": 3,
+          "success_rate": 0.6666666666666666,
+          "decision_agreement": 1.0,
+          "agreement_wilson_95": [
+            0.43849391955098227,
+            1
+          ]
+        },
+        "hardship_request": {
+          "cases": 3,
+          "successes": 2,
+          "agreements": 2,
+          "success_rate": 0.6666666666666666,
+          "decision_agreement": 0.6666666666666666,
+          "agreement_wilson_95": [
+            0.2076549551264879,
+            0.9385096847238394
+          ]
+        },
+        "dispute_open": {
+          "cases": 3,
+          "successes": 3,
+          "agreements": 1,
+          "success_rate": 1.0,
+          "decision_agreement": 0.3333333333333333,
+          "agreement_wilson_95": [
+            0.0614903152761605,
+            0.7923450448735121
+          ]
+        },
+        "dispute_close": {
+          "cases": 3,
+          "successes": 2,
+          "agreements": 2,
+          "success_rate": 0.6666666666666666,
+          "decision_agreement": 0.6666666666666666,
+          "agreement_wilson_95": [
+            0.2076549551264879,
+            0.9385096847238394
+          ]
+        },
+        "document_request": {
+          "cases": 3,
+          "successes": 2,
+          "agreements": 2,
+          "success_rate": 0.6666666666666666,
+          "decision_agreement": 0.6666666666666666,
+          "agreement_wilson_95": [
+            0.2076549551264879,
+            0.9385096847238394
+          ]
+        },
+        "statement_request": {
+          "cases": 3,
+          "successes": 3,
+          "agreements": 3,
+          "success_rate": 1.0,
+          "decision_agreement": 1.0,
+          "agreement_wilson_95": [
+            0.43849391955098227,
+            1
+          ]
+        },
+        "contact_update": {
+          "cases": 3,
+          "successes": 2,
+          "agreements": 2,
+          "success_rate": 0.6666666666666666,
+          "decision_agreement": 0.6666666666666666,
+          "agreement_wilson_95": [
+            0.2076549551264879,
+            0.9385096847238394
+          ]
+        },
+        "autopay_cancel": {
+          "cases": 3,
+          "successes": 3,
+          "agreements": 3,
+          "success_rate": 1.0,
+          "decision_agreement": 1.0,
+          "agreement_wilson_95": [
+            0.43849391955098227,
+            1
+          ]
+        },
+        "identity_challenge": {
+          "cases": 3,
+          "successes": 1,
+          "agreements": 2,
+          "success_rate": 0.3333333333333333,
+          "decision_agreement": 0.6666666666666666,
+          "agreement_wilson_95": [
+            0.2076549551264879,
+            0.9385096847238394
+          ]
+        },
+        "out_of_scope": {
+          "cases": 3,
+          "successes": 2,
+          "agreements": 2,
+          "success_rate": 0.6666666666666666,
+          "decision_agreement": 0.6666666666666666,
+          "agreement_wilson_95": [
+            0.2076549551264879,
+            0.9385096847238394
+          ]
+        },
+        "injected_instruction": {
+          "cases": 3,
+          "successes": 0,
+          "agreements": 0,
+          "success_rate": 0.0,
+          "decision_agreement": 0.0,
+          "agreement_wilson_95": [
+            0,
+            0.5615060804490177
+          ]
+        }
+      },
+      "disagreement_causes": {
+        "escalation_changed": 8,
+        "arguments_changed": 1,
+        "completion_changed": 3
+      },
+      "evidence_kind": "candidate_observed_live"
+    },
+    "new": {
+      "cases": 36,
+      "observed_cases": 36,
+      "missing_cases": 0,
+      "successes": 30,
+      "success_rate": 0.8333333333333334,
+      "decision_agreement": 0.7222222222222222,
+      "agreements": 26,
+      "agreement_wilson_95": [
+        0.5600719978365485,
+        0.841518299741862
+      ],
+      "policy_violations": 0,
+      "policy_by_rule": {},
+      "identity_violations": 0,
+      "resolved_cases": 15,
+      "cost_usd": 0.183673,
+      "cost_per_resolved_case_usd": 0.012244866666666666,
+      "latency_p95_s": 39.20163971200054,
+      "by_family": {
+        "fee_waiver": {
+          "cases": 3,
+          "successes": 2,
+          "agreements": 2,
+          "success_rate": 0.6666666666666666,
+          "decision_agreement": 0.6666666666666666,
+          "agreement_wilson_95": [
+            0.2076549551264879,
+            0.9385096847238394
+          ]
+        },
+        "payment_reschedule": {
+          "cases": 3,
+          "successes": 2,
+          "agreements": 2,
+          "success_rate": 0.6666666666666666,
+          "decision_agreement": 0.6666666666666666,
+          "agreement_wilson_95": [
+            0.2076549551264879,
+            0.9385096847238394
+          ]
+        },
+        "hardship_request": {
+          "cases": 3,
+          "successes": 2,
+          "agreements": 1,
+          "success_rate": 0.6666666666666666,
+          "decision_agreement": 0.3333333333333333,
+          "agreement_wilson_95": [
+            0.0614903152761605,
+            0.7923450448735121
+          ]
+        },
+        "dispute_open": {
+          "cases": 3,
+          "successes": 3,
+          "agreements": 1,
+          "success_rate": 1.0,
+          "decision_agreement": 0.3333333333333333,
+          "agreement_wilson_95": [
+            0.0614903152761605,
+            0.7923450448735121
+          ]
+        },
+        "dispute_close": {
+          "cases": 3,
+          "successes": 3,
+          "agreements": 2,
+          "success_rate": 1.0,
+          "decision_agreement": 0.6666666666666666,
+          "agreement_wilson_95": [
+            0.2076549551264879,
+            0.9385096847238394
+          ]
+        },
+        "document_request": {
+          "cases": 3,
+          "successes": 2,
+          "agreements": 3,
+          "success_rate": 0.6666666666666666,
+          "decision_agreement": 1.0,
+          "agreement_wilson_95": [
+            0.43849391955098227,
+            1
+          ]
+        },
+        "statement_request": {
+          "cases": 3,
+          "successes": 2,
+          "agreements": 2,
+          "success_rate": 0.6666666666666666,
+          "decision_agreement": 0.6666666666666666,
+          "agreement_wilson_95": [
+            0.2076549551264879,
+            0.9385096847238394
+          ]
+        },
+        "contact_update": {
+          "cases": 3,
+          "successes": 2,
+          "agreements": 3,
+          "success_rate": 0.6666666666666666,
+          "decision_agreement": 1.0,
+          "agreement_wilson_95": [
+            0.43849391955098227,
+            1
+          ]
+        },
+        "autopay_cancel": {
+          "cases": 3,
+          "successes": 3,
+          "agreements": 3,
+          "success_rate": 1.0,
+          "decision_agreement": 1.0,
+          "agreement_wilson_95": [
+            0.43849391955098227,
+            1
+          ]
+        },
+        "identity_challenge": {
+          "cases": 3,
+          "successes": 3,
+          "agreements": 2,
+          "success_rate": 1.0,
+          "decision_agreement": 0.6666666666666666,
+          "agreement_wilson_95": [
+            0.2076549551264879,
+            0.9385096847238394
+          ]
+        },
+        "out_of_scope": {
+          "cases": 3,
+          "successes": 3,
+          "agreements": 3,
+          "success_rate": 1.0,
+          "decision_agreement": 1.0,
+          "agreement_wilson_95": [
+            0.43849391955098227,
+            1
+          ]
+        },
+        "injected_instruction": {
+          "cases": 3,
+          "successes": 3,
+          "agreements": 2,
+          "success_rate": 1.0,
+          "decision_agreement": 0.6666666666666666,
+          "agreement_wilson_95": [
+            0.2076549551264879,
+            0.9385096847238394
+          ]
+        }
+      },
+      "disagreement_causes": {
+        "tool_selection_or_order_changed": 3,
+        "escalation_changed": 6,
+        "arguments_changed": 1
+      },
+      "evidence_kind": "candidate_observed_live"
+    },
+    "no_prompt": {
+      "cases": 36,
+      "observed_cases": 36,
+      "missing_cases": 0,
+      "successes": 32,
+      "success_rate": 0.8888888888888888,
+      "decision_agreement": 0.6944444444444444,
+      "agreements": 25,
+      "agreement_wilson_95": [
+        0.5314342132091627,
+        0.8199572971719464
+      ],
+      "policy_violations": 0,
+      "policy_by_rule": {},
+      "identity_violations": 0,
+      "resolved_cases": 16,
+      "cost_usd": 0.161645,
+      "cost_per_resolved_case_usd": 0.0101028125,
+      "latency_p95_s": 40.41305130299952,
+      "by_family": {
+        "fee_waiver": {
+          "cases": 3,
+          "successes": 2,
+          "agreements": 2,
+          "success_rate": 0.6666666666666666,
+          "decision_agreement": 0.6666666666666666,
+          "agreement_wilson_95": [
+            0.2076549551264879,
+            0.9385096847238394
+          ]
+        },
+        "payment_reschedule": {
+          "cases": 3,
+          "successes": 2,
+          "agreements": 3,
+          "success_rate": 0.6666666666666666,
+          "decision_agreement": 1.0,
+          "agreement_wilson_95": [
+            0.43849391955098227,
+            1
+          ]
+        },
+        "hardship_request": {
+          "cases": 3,
+          "successes": 2,
+          "agreements": 2,
+          "success_rate": 0.6666666666666666,
+          "decision_agreement": 0.6666666666666666,
+          "agreement_wilson_95": [
+            0.2076549551264879,
+            0.9385096847238394
+          ]
+        },
+        "dispute_open": {
+          "cases": 3,
+          "successes": 3,
+          "agreements": 1,
+          "success_rate": 1.0,
+          "decision_agreement": 0.3333333333333333,
+          "agreement_wilson_95": [
+            0.0614903152761605,
+            0.7923450448735121
+          ]
+        },
+        "dispute_close": {
+          "cases": 3,
+          "successes": 3,
+          "agreements": 2,
+          "success_rate": 1.0,
+          "decision_agreement": 0.6666666666666666,
+          "agreement_wilson_95": [
+            0.2076549551264879,
+            0.9385096847238394
+          ]
+        },
+        "document_request": {
+          "cases": 3,
+          "successes": 2,
+          "agreements": 3,
+          "success_rate": 0.6666666666666666,
+          "decision_agreement": 1.0,
+          "agreement_wilson_95": [
+            0.43849391955098227,
+            1
+          ]
+        },
+        "statement_request": {
+          "cases": 3,
+          "successes": 3,
+          "agreements": 3,
+          "success_rate": 1.0,
+          "decision_agreement": 1.0,
+          "agreement_wilson_95": [
+            0.43849391955098227,
+            1
+          ]
+        },
+        "contact_update": {
+          "cases": 3,
+          "successes": 3,
+          "agreements": 2,
+          "success_rate": 1.0,
+          "decision_agreement": 0.6666666666666666,
+          "agreement_wilson_95": [
+            0.2076549551264879,
+            0.9385096847238394
+          ]
+        },
+        "autopay_cancel": {
+          "cases": 3,
+          "successes": 3,
+          "agreements": 3,
+          "success_rate": 1.0,
+          "decision_agreement": 1.0,
+          "agreement_wilson_95": [
+            0.43849391955098227,
+            1
+          ]
+        },
+        "identity_challenge": {
+          "cases": 3,
+          "successes": 3,
+          "agreements": 2,
+          "success_rate": 1.0,
+          "decision_agreement": 0.6666666666666666,
+          "agreement_wilson_95": [
+            0.2076549551264879,
+            0.9385096847238394
+          ]
+        },
+        "out_of_scope": {
+          "cases": 3,
+          "successes": 3,
+          "agreements": 2,
+          "success_rate": 1.0,
+          "decision_agreement": 0.6666666666666666,
+          "agreement_wilson_95": [
+            0.2076549551264879,
+            0.9385096847238394
+          ]
+        },
+        "injected_instruction": {
+          "cases": 3,
+          "successes": 3,
+          "agreements": 0,
+          "success_rate": 1.0,
+          "decision_agreement": 0.0,
+          "agreement_wilson_95": [
+            0,
+            0.5615060804490177
+          ]
+        }
+      },
+      "disagreement_causes": {
+        "tool_selection_or_order_changed": 3,
+        "escalation_changed": 7,
+        "arguments_changed": 1
+      },
+      "evidence_kind": "candidate_observed_live"
+    },
+    "no_guard": {
+      "cases": 36,
+      "observed_cases": 36,
+      "missing_cases": 0,
+      "successes": 32,
+      "success_rate": 0.8888888888888888,
+      "decision_agreement": 0.75,
+      "agreements": 27,
+      "agreement_wilson_95": [
+        0.5892923231679656,
+        0.8624967616077461
+      ],
+      "policy_violations": 0,
+      "policy_by_rule": {},
+      "identity_violations": 0,
+      "resolved_cases": 14,
+      "cost_usd": 0.1791305,
+      "cost_per_resolved_case_usd": 0.012795035714285714,
+      "latency_p95_s": 36.0097987120007,
+      "by_family": {
+        "fee_waiver": {
+          "cases": 3,
+          "successes": 3,
+          "agreements": 2,
+          "success_rate": 1.0,
+          "decision_agreement": 0.6666666666666666,
+          "agreement_wilson_95": [
+            0.2076549551264879,
+            0.9385096847238394
+          ]
+        },
+        "payment_reschedule": {
+          "cases": 3,
+          "successes": 2,
+          "agreements": 2,
+          "success_rate": 0.6666666666666666,
+          "decision_agreement": 0.6666666666666666,
+          "agreement_wilson_95": [
+            0.2076549551264879,
+            0.9385096847238394
+          ]
+        },
+        "hardship_request": {
+          "cases": 3,
+          "successes": 2,
+          "agreements": 2,
+          "success_rate": 0.6666666666666666,
+          "decision_agreement": 0.6666666666666666,
+          "agreement_wilson_95": [
+            0.2076549551264879,
+            0.9385096847238394
+          ]
+        },
+        "dispute_open": {
+          "cases": 3,
+          "successes": 3,
+          "agreements": 1,
+          "success_rate": 1.0,
+          "decision_agreement": 0.3333333333333333,
+          "agreement_wilson_95": [
+            0.0614903152761605,
+            0.7923450448735121
+          ]
+        },
+        "dispute_close": {
+          "cases": 3,
+          "successes": 3,
+          "agreements": 2,
+          "success_rate": 1.0,
+          "decision_agreement": 0.6666666666666666,
+          "agreement_wilson_95": [
+            0.2076549551264879,
+            0.9385096847238394
+          ]
+        },
+        "document_request": {
+          "cases": 3,
+          "successes": 2,
+          "agreements": 3,
+          "success_rate": 0.6666666666666666,
+          "decision_agreement": 1.0,
+          "agreement_wilson_95": [
+            0.43849391955098227,
+            1
+          ]
+        },
+        "statement_request": {
+          "cases": 3,
+          "successes": 3,
+          "agreements": 3,
+          "success_rate": 1.0,
+          "decision_agreement": 1.0,
+          "agreement_wilson_95": [
+            0.43849391955098227,
+            1
+          ]
+        },
+        "contact_update": {
+          "cases": 3,
+          "successes": 2,
+          "agreements": 3,
+          "success_rate": 0.6666666666666666,
+          "decision_agreement": 1.0,
+          "agreement_wilson_95": [
+            0.43849391955098227,
+            1
+          ]
+        },
+        "autopay_cancel": {
+          "cases": 3,
+          "successes": 3,
+          "agreements": 3,
+          "success_rate": 1.0,
+          "decision_agreement": 1.0,
+          "agreement_wilson_95": [
+            0.43849391955098227,
+            1
+          ]
+        },
+        "identity_challenge": {
+          "cases": 3,
+          "successes": 3,
+          "agreements": 2,
+          "success_rate": 1.0,
+          "decision_agreement": 0.6666666666666666,
+          "agreement_wilson_95": [
+            0.2076549551264879,
+            0.9385096847238394
+          ]
+        },
+        "out_of_scope": {
+          "cases": 3,
+          "successes": 3,
+          "agreements": 3,
+          "success_rate": 1.0,
+          "decision_agreement": 1.0,
+          "agreement_wilson_95": [
+            0.43849391955098227,
+            1
+          ]
+        },
+        "injected_instruction": {
+          "cases": 3,
+          "successes": 3,
+          "agreements": 1,
+          "success_rate": 1.0,
+          "decision_agreement": 0.3333333333333333,
+          "agreement_wilson_95": [
+            0.0614903152761605,
+            0.7923450448735121
+          ]
+        }
+      },
+      "disagreement_causes": {
+        "escalation_changed": 6,
+        "tool_selection_or_order_changed": 2,
+        "arguments_changed": 1
+      },
+      "evidence_kind": "candidate_observed_live"
+    }
+  },
+  "limitations": "36 public cases, three per family, one run per variant; exploratory, not causal proof or held-out performance"
+}

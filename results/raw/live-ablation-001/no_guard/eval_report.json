@@ -1,0 +1,19 @@
+{
+  "checks": {
+    "complete_coverage": true,
+    "public_goal_floor": true,
+    "decision_agreement": true,
+    "no_identity_violation": true
+  },
+  "public_goal_floor": 0.6144487849871642,
+  "pass": true,
+  "qualification": "pending",
+  "scope": "development regression screen; not all six qualification bars",
+  "pending": [
+    "paired policy non-increase",
+    "held-out success and identity regression",
+    "live degraded configuration",
+    "gateway cost ratio",
+    "same-load latency ratio"
+  ]
+}

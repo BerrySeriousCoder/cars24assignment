@@ -1,0 +1,1 @@
+{"name":"degraded","model":"gpt-5-mini-2025-08-07","agent":"op02.controls:model_commit_only","variant":"real_model_closure_only_negative_control","input_per_million":0.25,"output_per_million":2.0}

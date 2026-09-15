@@ -1,0 +1,35 @@
+{
+  "cases": 1,
+  "observed_cases": 1,
+  "missing_cases": 0,
+  "successes": 1,
+  "success_rate": 1.0,
+  "decision_agreement": 1.0,
+  "agreements": 1,
+  "agreement_wilson_95": [
+    0.20654329147389294,
+    1
+  ],
+  "policy_violations": 0,
+  "policy_by_rule": {},
+  "identity_violations": 0,
+  "resolved_cases": 1,
+  "cost_usd": 0.0031720000000000003,
+  "cost_per_resolved_case_usd": 0.0031720000000000003,
+  "latency_p95_s": 3.741268403999129,
+  "by_family": {
+    "fee_waiver": {
+      "cases": 1,
+      "successes": 1,
+      "agreements": 1,
+      "success_rate": 1.0,
+      "decision_agreement": 1.0,
+      "agreement_wilson_95": [
+        0.20654329147389294,
+        1
+      ]
+    }
+  },
+  "disagreement_causes": {},
+  "evidence_kind": "candidate_observed_live"
+}

@@ -1,0 +1,27 @@
+{
+  "checked_files": 21,
+  "files": [
+    "CALIBRATION.md",
+    "LICENSE.md",
+    "MODELS.md",
+    "OP-01/cases/README.md",
+    "OP-01/cases/cases.jsonl",
+    "OP-01/goal_scorer.py",
+    "OP-01/harbour/__init__.py",
+    "OP-01/harbour/agent.py",
+    "OP-01/harbour/backend.py",
+    "OP-01/harbour/llm.py",
+    "OP-01/harbour/policy.md",
+    "OP-01/harbour/policy.py",
+    "OP-01/harbour/seed.json",
+    "OP-01/harbour/seed_data.py",
+    "OP-01/harbour/service.py",
+    "OP-01/harbour/tests/conftest.py",
+    "OP-01/harbour/tests/test_agent.py",
+    "OP-01/harbour/tests/test_backend.py",
+    "OP-01/harbour/tracing.py",
+    "OP-02/policy_scorer.py",
+    "OP-02/retiring-decisions.jsonl"
+  ],
+  "all_match": true
+}
